@@ -1,3 +1,10 @@
+## Linear Curve interfaces
+
+Contracts that calculate a buy/sell/event curve that can be used as a library.
+
+
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
