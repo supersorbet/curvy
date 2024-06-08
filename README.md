@@ -2,6 +2,7 @@
 
 Contracts that calculate a buy/sell/event curve that can be used as a library.
 
+Use **CurveMaster.sol** in /src for easy implementation
 
 
 
